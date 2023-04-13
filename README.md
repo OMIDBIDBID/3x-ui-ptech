@@ -130,7 +130,7 @@ Reference syntax:
 
 # Pictures
 
-![1](./media/1.png)
+![1](./media/1.jpg)
 ![2](./media/2.png)
 ![3](./media/3.png)
 ![4](./media/4.jpg)
