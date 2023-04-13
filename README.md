@@ -13,7 +13,7 @@ xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese)**
 # نصب و ارتقاء
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Ptechgithub/3x-ui/master/install.sh)
 ```
 # SSL گواهی
 ```
