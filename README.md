@@ -10,17 +10,12 @@
 
 xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese)**
 
-# Install & Upgrade
+# نصب و ارتقا
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 ```
-## Install custom version
-To install your desired version you can add the version to the end of install command. Example for ver `v1.0.9`:
-```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v1.0.9
-```
-# SSL
+# SSL گواهی
 ```
 apt-get install certbot -y
 certbot certonly --standalone --agree-tos --register-unsafely-without-email -d yourdomain.com
