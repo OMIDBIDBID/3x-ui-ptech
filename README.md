@@ -1,4 +1,6 @@
 # 3x-ui
+
+#[آموزش کامل در کانال یوتیوب@IR_Tech](https://youtube.com/@IR_Tech)
 [![](https://img.shields.io/github/v/release/mhsanaei/3x-ui.svg)](https://github.com/MHSanaei/3x-ui/releases)
 [![](https://img.shields.io/github/actions/workflow/status/mhsanaei/3x-ui/release.yml.svg)](#)
 [![GO Version](https://img.shields.io/github/go-mod/go-version/mhsanaei/3x-ui.svg)](#)
@@ -117,9 +119,8 @@ Reference syntax:
 | POST | "/resetAllTraffics" | Reset traffics of all inbounds |
 | POST | "/resetAllClientTraffics/:id" | Reset traffics of all clients in an inbound |
 
-# A Special Thanks To
-- [alireza0](https://github.com/alireza0/)
-- [FranzKafkaYu](https://github.com/FranzKafkaYu)
+# تقدیر از
+- [Mhsanaei](https://github.com/MhsaMhsanaei)
 
 # Suggestion System
 - Ubuntu 20.04+
