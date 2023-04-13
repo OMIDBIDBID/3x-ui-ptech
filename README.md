@@ -120,7 +120,7 @@ Reference syntax:
 | POST | "/resetAllClientTraffics/:id" | Reset traffics of all clients in an inbound |
 
 # تقدیر از
-- [Mhsanaei](https://github.com/MhsaMhsanaei)
+- [Mhsanaei](https://github.com/Mhsanaei)
 
 # Suggestion System
 - Ubuntu 20.04+
