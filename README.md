@@ -1,7 +1,7 @@
 # 3x-ui
 # [آموزش کامل در یوتیوب @IR_Tech](https://YouTube.com/@IR_Tech)
 
-[![](https://img.shields.io/github/v/release/mhsanaei/3x-ui.svg)](https://github.com/MHSanaei/3x-ui/releases)
+[![](https://img.shields.io/github/v/release/Ptechgithub/3x-ui.svg)](https://github.com/MHSanaei/3x-ui/releases)
 [![](https://img.shields.io/github/actions/workflow/status/mhsanaei/3x-ui/release.yml.svg)](#)
 [![GO Version](https://img.shields.io/github/go-mod/go-version/mhsanaei/3x-ui.svg)](#)
 [![Downloads](https://img.shields.io/github/downloads/mhsanaei/3x-ui/total.svg)](#)
@@ -133,7 +133,7 @@ Reference syntax:
 ![1](./media/1.png)
 ![2](./media/2.png)
 ![3](./media/3.png)
-![4](./media/4.png)
+![4](./media/4.jpg)
 
 ## Stargazers over time
 
